@@ -1,4 +1,4 @@
-# Decompiled
+# Decompiled.
 Sc indo & sc luar yang di dec jadi open source
 
 If you can't use this script or there is a bug in the script, please contact me
